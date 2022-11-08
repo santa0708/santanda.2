@@ -1,2 +1,2 @@
-function imgchange688(){
-document.getElementById('josai').src='./image/城西大学マスコットキャラクター.png';}
+function imgchange1()
+{document.getElementById('img1').innerHTML = '<img src="./image/城西大学マスコットキャラクター.jpg">';}
